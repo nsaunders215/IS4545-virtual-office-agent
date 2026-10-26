@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Clinical Virtual-Office Portal",
+  "description": "Multi-agent healthcare intelligence portal featuring six specialized clinical AI agents for patient experience, complaint triage, operations support, executive analytics, and capacity routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
